@@ -24,5 +24,4 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/roll_label" />
 
-
 </LinearLayout>
